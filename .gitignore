@@ -1,0 +1,25 @@
+.DS_Store
+_Ignored
+Icons/
+TODO.txt
+Resources/ffmpeg/sharedLibs
+Resources/ffmpeg/ffmpeg-4.3.1
+*.zip
+Resources/ffmpeg/decoders.txt
+Resources/ffmpeg/decoders-stats.txt
+Resources/ffmpeg/parsers.txt
+Resources/releaseAutomation/*.dmg
+Resources/releaseAutomation/Aural Player*
+Resources/ffmpeg/audio-decoders.txt
+Documentation/Diagrams/Projects
+wiki/
+Resources/copyright.sh
+Resources/xml-copyright.sh
+UserGuide.pdf
+*.umdx
+unusedFiles.sh
+gitBranchRename.txt
+Aural-TODO.rtf
+Aural.xcodeproj/project.xcworkspace/xcuserdata/kven.xcuserdatad/UserInterfaceState.xcuserstate
+Aural.xcodeproj/project.xcworkspace/xcuserdata/kven.xcuserdatad/UserInterfaceState.xcuserstate
+unused.rb
